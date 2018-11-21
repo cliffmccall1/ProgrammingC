@@ -1,0 +1,11 @@
+/Users/cliff/Desktop/ProgrammingC#/lesson5HandsOn/obj/Debug/netcoreapp2.1/lesson5HandsOn.csprojAssemblyReference.cache
+/Users/cliff/Desktop/ProgrammingC#/lesson5HandsOn/obj/Debug/netcoreapp2.1/lesson5HandsOn.csproj.CoreCompileInputs.cache
+/Users/cliff/Desktop/ProgrammingC#/lesson5HandsOn/obj/Debug/netcoreapp2.1/lesson5HandsOn.AssemblyInfoInputs.cache
+/Users/cliff/Desktop/ProgrammingC#/lesson5HandsOn/obj/Debug/netcoreapp2.1/lesson5HandsOn.AssemblyInfo.cs
+/Users/cliff/Desktop/ProgrammingC#/lesson5HandsOn/bin/Debug/netcoreapp2.1/lesson5HandsOn.deps.json
+/Users/cliff/Desktop/ProgrammingC#/lesson5HandsOn/bin/Debug/netcoreapp2.1/lesson5HandsOn.runtimeconfig.json
+/Users/cliff/Desktop/ProgrammingC#/lesson5HandsOn/bin/Debug/netcoreapp2.1/lesson5HandsOn.runtimeconfig.dev.json
+/Users/cliff/Desktop/ProgrammingC#/lesson5HandsOn/bin/Debug/netcoreapp2.1/lesson5HandsOn.dll
+/Users/cliff/Desktop/ProgrammingC#/lesson5HandsOn/bin/Debug/netcoreapp2.1/lesson5HandsOn.pdb
+/Users/cliff/Desktop/ProgrammingC#/lesson5HandsOn/obj/Debug/netcoreapp2.1/lesson5HandsOn.dll
+/Users/cliff/Desktop/ProgrammingC#/lesson5HandsOn/obj/Debug/netcoreapp2.1/lesson5HandsOn.pdb
