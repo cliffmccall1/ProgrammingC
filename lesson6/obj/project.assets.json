@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cliff/Desktop/ProgrammingC/lesson5/lesson5.csproj",
-      "projectName": "lesson5",
-      "projectPath": "/Users/cliff/Desktop/ProgrammingC/lesson5/lesson5.csproj",
+      "projectUniqueName": "/Users/cliff/Desktop/ProgrammingC/lesson6/lesson6.csproj",
+      "projectName": "lesson6",
+      "projectPath": "/Users/cliff/Desktop/ProgrammingC/lesson6/lesson6.csproj",
       "packagesPath": "/Users/cliff/.nuget/packages/",
-      "outputPath": "/Users/cliff/Desktop/ProgrammingC/lesson5/obj/",
+      "outputPath": "/Users/cliff/Desktop/ProgrammingC/lesson6/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
