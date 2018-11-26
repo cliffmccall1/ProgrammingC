@@ -1,0 +1,11 @@
+/Users/cliff/Desktop/ProgrammingC/lesson7/bin/Debug/netcoreapp2.1/lesson7.deps.json
+/Users/cliff/Desktop/ProgrammingC/lesson7/bin/Debug/netcoreapp2.1/lesson7.runtimeconfig.json
+/Users/cliff/Desktop/ProgrammingC/lesson7/bin/Debug/netcoreapp2.1/lesson7.runtimeconfig.dev.json
+/Users/cliff/Desktop/ProgrammingC/lesson7/bin/Debug/netcoreapp2.1/lesson7.dll
+/Users/cliff/Desktop/ProgrammingC/lesson7/bin/Debug/netcoreapp2.1/lesson7.pdb
+/Users/cliff/Desktop/ProgrammingC/lesson7/obj/Debug/netcoreapp2.1/lesson7.csprojAssemblyReference.cache
+/Users/cliff/Desktop/ProgrammingC/lesson7/obj/Debug/netcoreapp2.1/lesson7.csproj.CoreCompileInputs.cache
+/Users/cliff/Desktop/ProgrammingC/lesson7/obj/Debug/netcoreapp2.1/lesson7.AssemblyInfoInputs.cache
+/Users/cliff/Desktop/ProgrammingC/lesson7/obj/Debug/netcoreapp2.1/lesson7.AssemblyInfo.cs
+/Users/cliff/Desktop/ProgrammingC/lesson7/obj/Debug/netcoreapp2.1/lesson7.dll
+/Users/cliff/Desktop/ProgrammingC/lesson7/obj/Debug/netcoreapp2.1/lesson7.pdb
