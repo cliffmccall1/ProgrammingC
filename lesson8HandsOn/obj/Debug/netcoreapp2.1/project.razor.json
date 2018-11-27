@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/cliff/Desktop/ProgrammingC/lesson8HandsOn/lesson8HandsOn.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
