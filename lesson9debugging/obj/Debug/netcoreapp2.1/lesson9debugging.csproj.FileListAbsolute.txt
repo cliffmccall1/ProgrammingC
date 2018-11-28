@@ -1,0 +1,11 @@
+/Users/cliff/Desktop/ProgrammingC/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.csprojAssemblyReference.cache
+/Users/cliff/Desktop/ProgrammingC/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.csproj.CoreCompileInputs.cache
+/Users/cliff/Desktop/ProgrammingC/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.AssemblyInfoInputs.cache
+/Users/cliff/Desktop/ProgrammingC/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.AssemblyInfo.cs
+/Users/cliff/Desktop/ProgrammingC/lesson9debugging/bin/Debug/netcoreapp2.1/lesson9debugging.deps.json
+/Users/cliff/Desktop/ProgrammingC/lesson9debugging/bin/Debug/netcoreapp2.1/lesson9debugging.runtimeconfig.json
+/Users/cliff/Desktop/ProgrammingC/lesson9debugging/bin/Debug/netcoreapp2.1/lesson9debugging.runtimeconfig.dev.json
+/Users/cliff/Desktop/ProgrammingC/lesson9debugging/bin/Debug/netcoreapp2.1/lesson9debugging.dll
+/Users/cliff/Desktop/ProgrammingC/lesson9debugging/bin/Debug/netcoreapp2.1/lesson9debugging.pdb
+/Users/cliff/Desktop/ProgrammingC/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.dll
+/Users/cliff/Desktop/ProgrammingC/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.pdb
