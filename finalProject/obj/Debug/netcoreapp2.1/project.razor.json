@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "/Users/cliff/Desktop/finalProject/finalProject.csproj",
+  "ProjectFilePath": "/Users/cliff/Desktop/ProgrammingC/finalProject/finalProject.csproj",
   "TargetFramework": "netcoreapp2.1",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }
