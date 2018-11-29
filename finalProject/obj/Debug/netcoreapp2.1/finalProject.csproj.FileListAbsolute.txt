@@ -1,0 +1,11 @@
+/Users/cliff/Desktop/finalProject/bin/Debug/netcoreapp2.1/finalProject.deps.json
+/Users/cliff/Desktop/finalProject/bin/Debug/netcoreapp2.1/finalProject.runtimeconfig.json
+/Users/cliff/Desktop/finalProject/bin/Debug/netcoreapp2.1/finalProject.runtimeconfig.dev.json
+/Users/cliff/Desktop/finalProject/bin/Debug/netcoreapp2.1/finalProject.dll
+/Users/cliff/Desktop/finalProject/bin/Debug/netcoreapp2.1/finalProject.pdb
+/Users/cliff/Desktop/finalProject/obj/Debug/netcoreapp2.1/finalProject.csprojAssemblyReference.cache
+/Users/cliff/Desktop/finalProject/obj/Debug/netcoreapp2.1/finalProject.csproj.CoreCompileInputs.cache
+/Users/cliff/Desktop/finalProject/obj/Debug/netcoreapp2.1/finalProject.AssemblyInfoInputs.cache
+/Users/cliff/Desktop/finalProject/obj/Debug/netcoreapp2.1/finalProject.AssemblyInfo.cs
+/Users/cliff/Desktop/finalProject/obj/Debug/netcoreapp2.1/finalProject.dll
+/Users/cliff/Desktop/finalProject/obj/Debug/netcoreapp2.1/finalProject.pdb
