@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cliff/Desktop/finalProject/finalProject.csproj",
+      "projectUniqueName": "/Users/cliff/Desktop/ProgrammingC/finalProject/finalProject.csproj",
       "projectName": "finalProject",
-      "projectPath": "/Users/cliff/Desktop/finalProject/finalProject.csproj",
+      "projectPath": "/Users/cliff/Desktop/ProgrammingC/finalProject/finalProject.csproj",
       "packagesPath": "/Users/cliff/.nuget/packages/",
-      "outputPath": "/Users/cliff/Desktop/finalProject/obj/",
+      "outputPath": "/Users/cliff/Desktop/ProgrammingC/finalProject/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
